@@ -1,7 +1,7 @@
 ### Welcome to my page 
  
 - 🔭 I’m currently a teaching fellow at the University of Suthampton
-- 🌱 My research interests are the theory and methods of optimisation in the fields of sparse optimisation, bilevel optimisation and Euclidean distance matrix  optimisation.
+- 🌱 My research interests are the theory and methods of optimisation in the fields of sparse, bilevel and EDM optimisations.
 - 💬 Ask me about ...
 - 📫 How to reach me: shenglong.zhou@soton.ac.uk
 - :house: Find more about me: https://shenglongzhou.github.io/
