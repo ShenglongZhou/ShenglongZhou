@@ -1,6 +1,6 @@
 ### Welcome to my page 
  
-- 🔭 I’m currently a teaching fellow at the University of Suthampton,:uk:
+- 🔭 I’m currently a teaching fellow at the University of Suthampton, - :uk:
 - 📫 How to reach me: shenglong.zhou@soton.ac.uk
 - :house: Find more about me: https://shenglongzhou.github.io/
 - 🌱 My research interests are the theory and methods of optimisation in the fields of sparse, bilevel and EDM optimisations.
