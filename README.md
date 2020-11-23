@@ -1,8 +1,5 @@
-### Welcome to my page 👋
+### Welcome to my page 
  
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a teaching fellow at the University of Suthampton
 - 🌱 My research interests are the theory and methods of optimisation in the fields of sparse optimisation, bilevel optimisation and Euclidean distance matrix  optimisation.
 - 💬 Ask me about ...
