@@ -1,6 +1,6 @@
 ### Welcome to my page 
  
-- 🔭 I’m currently a Research Associate at the Imperial College London, UK
+- 🔭 I’m currently a Research Associate at Imperial College London, UK
 - :email: How to reach me: slzhou2021@163.com
 - :house: Find more about me: https://shenglongzhou.github.io/
 - 🌱 My research interests include the theory and methods of optimisation in the fields of sparse, bilevel and EDM optimisations.
